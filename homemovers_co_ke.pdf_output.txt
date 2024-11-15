@@ -1,0 +1,68 @@
+**Business Analysis**
+
+**Name:** HomeMovers
+
+**Target Audience:**
+
+* Individuals and families planning to relocate within Kenya
+
+**Pricing:**
+
+* Not specified in the provided information
+
+**Key Features:**
+
+* Moving services for residential and commercial clients
+* Packing and unpacking assistance
+* Secure storage solutions
+* Transportation of goods using specialized vehicles
+
+**Marketing/Sales Strategy:**
+
+* Information is not available in the provided document
+
+**Strengths:**
+
+* Potential for high demand in Kenya's growing real estate market
+* Focus on providing comprehensive moving solutions
+* Skilled and experienced moving team
+
+**Weaknesses:**
+
+* Competition from established moving companies
+* Pricing may be a limiting factor for some customers
+* Limited information on marketing and sales strategy
+
+**Opportunities:**
+
+* Expanding services to include additional locations within Kenya
+* Partnering with real estate agencies and developers to offer package deals
+* Leveraging technology to improve customer experience and efficiency
+
+**Threats:**
+
+**| Social | Technological | Economic | Environmental | Political |
+|---|---|---|---|---|
+| Changing demographics | Automation and digitization | Fluctuating housing market | Traffic congestion | Government regulations |
+
+**Porter's Five Forces:**
+
+* **Threat of New Entrants:** Low to moderate
+* **Bargaining Power of Suppliers:** Moderate
+* **Bargaining Power of Buyers:** High
+* **Threat of Substitutes:** Low
+* **Rivalry Among Existing Competitors:** Moderate
+
+**Value Chain Analysis:**
+
+**Primary Activities:**
+* Customer service
+* Packing and unpacking
+* Transportation
+* Storage
+
+**Support Activities:**
+* Marketing and sales
+* Human resources
+* Finance
+* Infrastructure
